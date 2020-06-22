@@ -10,4 +10,4 @@ usage:
                  Center to reverse the bed. Omit to use the midpoint of the input annotation.
 ```
 
-(example)[test/example.png]
+![example](test/example.png)
