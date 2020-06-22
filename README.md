@@ -1,7 +1,7 @@
 # reverseBed
 Change relative strand orientation of a BED or GTF file. 
-
-*Note: Current implementation works with tracks on a single chromosome.*
+The only prerequisite is bedtools in the PATH.
+*Note: Current implementation works with tracks on a single chromosome and uncompressed files.*
 
 ```bash
 usage:
@@ -14,4 +14,5 @@ usage:
 
 ---
 # TODO
+- Implement working with compressed files.
 - Implement grouping by chromosome.
